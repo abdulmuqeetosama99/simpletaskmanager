@@ -1,1 +1,1 @@
-#simple Laravel task manager project using msql database
+Simple Laravel task manager project using msql database
